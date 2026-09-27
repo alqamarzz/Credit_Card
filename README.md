@@ -1,6 +1,6 @@
 # Interactive 3D Credit Card Component
 
-A modern, highly polished, and interactive 3D credit card form inspired by [creditcard.yashb.xyz](https://creditcard.yashb.xyz/), built with **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
+A modern, highly polished, and interactive 3D credit card form, built with **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 
 ---
 
